@@ -4,7 +4,7 @@ Just a simple Terminal
 
 Changelog:
 
-v0.70 - added the scrollbar \n
+v0.70 - added the scrollbar
 v0.67 - added the changelog
 v0.65 - added an easteregg
 v0.61 - added the RAWR Text
