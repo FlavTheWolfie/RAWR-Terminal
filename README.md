@@ -33,3 +33,5 @@ v0.20 - added the text input
 v0.17 - removed the binary stream
 
 v0.15 - added the binary stream
+
+© Copyright 2025 FlavTheWolfie
